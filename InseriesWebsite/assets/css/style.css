@@ -134,7 +134,7 @@ header .header-content .mobile-menu-btn i {
     font-size: 32px;
 }
 
-header .header-content .imdb-btn {
+header .header-content .profile-btn {
     cursor: pointer;
     appearance: none;
     border: none;
@@ -148,21 +148,23 @@ header .header-content .imdb-btn {
     text-wrap: nowrap;
 }
 
-header .header-content .imdb-btn:hover {
+header .header-content .profile-btn:hover {
     background-color: #ffffff;
     color: #000000
 }
 
-header .header-content .imdb-btn span {
+header .header-content .profile-btn span {
+    display: block;
     font-weight: 500;
     font-size: 16px;
 }
 
-header .header-content .imdb-btn i {
+header .header-content .profile-btn i {
     font-size: 20px;
 }
 
 header .mobile-menu {
+    display: block;
     max-height: 0;
     overflow: hidden;
     margin-bottom: 0;
@@ -194,6 +196,11 @@ header .mobile-menu nav ul li {
 header .mobile-menu nav ul li:hover {
     background-color: #ffffff;
     color: #000000;
+}
+
+header .mobile-menu nav ul li:last-child:hover {
+    background-color: #fb2c36;
+    color: #ffffff;
 }
 
 main .wallpaper-section {
@@ -243,8 +250,12 @@ main .wallpaper-section .title {
         display: none;
     }
 
-    header .header-content .imdb-btn {
-        display: block;
+    header .header-content .profile-btn {
+        display: flex;
+    }
+
+    header .mobile-menu {
+        display: none;
     }
 }
 
