@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.dark-glass {
+    background: rgba(0, 0, 0, 0.4); /* Dark transparent background */
+    backdrop-filter: blur(10px); /* Frosted effect */
+    -webkit-backdrop-filter: blur(10px); /* Safari compatibility */
+    border-radius: 15px; /* Rounded corners */
+    border: 1px solid rgba(255, 255, 255, 0.2); /* Subtle light border */
+    padding: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5); /* Optional shadow */
+    color: white; /* Text color for contrast */
+}
+
+body {
+    position: relative;
+    font-family: 'Inter', sans-serif;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #292524, #000000);
+}
+
+.header-wrapper {
+    width: 100%;
+    height: 128px;
+    background: linear-gradient(135deg, #57534d, #292524, #0c0a09);
+    background-size: 300% 300%;
+    animation: floatingGradient 3s infinite linear;
+}
+
+@keyframes floatingGradient {
+    0% {
+        background-position: 0 0;
+    }
+    25% {
+        background-position: 50% 50%;
+    }
+    50% {
+        background-position: 100% 0;
+    }
+    75% {
+        background-position: 50% 50%;
+    }
+    100% {
+        background-position: 0 0;
+    }
+}
+
+header {
+    position: fixed;
+    z-index: 999;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: rgba(0, 0, 0, 0.4);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+}
+
+header .header-content {
+    width: 100%;
+    max-width: 1200px;
+    height: 128px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap: 32px;
+}
+
+header .header-content .logo {
+    display: flex;
+    align-items: center;
+}
+
+header .header-content .logo img {
+    width: 52px;
+    height: 52px;
+    object-fit: contain;
+    filter: invert(1);
+}
+
+header .header-content .logo span {
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 32px;
+    transform: translateX(-8px);
+    margin-bottom: 1px;
+}
+
+header .header-content nav {
+    flex: 1;
+    display: none;
+}
+
+header .header-content nav ul {
+    list-style: none;
+
+    display: flex;
+    column-gap: 16px;
+}
+
+header .header-content nav ul li a {
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    column-gap: 12px;
+    transition: all 0.3s ease;
+    padding: 12px 24px;
+}
+
+header .header-content nav ul li a:hover {
+    background-color: #ffffff;
+    color: #000000
+}
+
+header .header-content .mobile-menu-btn {
+    appearance: none;
+    border: none;
+    background-color: transparent;
+}
+
+header .header-content .mobile-menu-btn i {
+    color: #ffffff;
+    font-size: 32px;
+}
+
+header .header-content .imdb-btn {
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    background-color: transparent;
+    color: #ffffff;
+    display: none;
+    align-items: center;
+    column-gap: 12px;
+    transition: all 0.3s ease;
+    padding: 12px 24px;
+}
+
+header .header-content .imdb-btn:hover {
+    background-color: #ffffff;
+    color: #000000
+}
+
+header .header-content .imdb-btn span {
+    font-weight: 500;
+    font-size: 16px;
+}
+
+header .header-content .imdb-btn i {
+    font-size: 20px;
+}
+
+main .wallpaper-section {
+    position: relative;
+    width: 100%;
+    height: calc(100vh - 128px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main .wallpaper-section img {
+    position: absolute;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+main .wallpaper-section .title {
+
+}
+
+/* xs@start */
+@media (min-width: 0) {
+    header {
+        padding: 0 20px;
+    }
+}
+
+/* xs@end */
+
+/* sm@start */
+@media (min-width: 576px) {
+
+}
+
+/* sm@end */
+
+/* md@start */
+@media (min-width: 768px) {
+    header .header-content nav {
+        display: block;
+    }
+
+    header .header-content .mobile-menu-btn {
+        display: none;
+    }
+
+    header .header-content .imdb-btn {
+        display: block;
+    }
+}
+
+/* md@end */
+
+/* lg@start */
+@media (min-width: 992px) {
+
+}
+
+/* lg@end */
+
+/* xl@start */
+@media (min-width: 1200px) {
+
+}
+
+/* xl@end */
