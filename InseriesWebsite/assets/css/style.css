@@ -126,6 +126,7 @@ header .header-content .mobile-menu-btn {
     appearance: none;
     border: none;
     background-color: transparent;
+    cursor: pointer;
 }
 
 header .header-content .mobile-menu-btn i {
@@ -144,6 +145,7 @@ header .header-content .imdb-btn {
     column-gap: 12px;
     transition: all 0.3s ease;
     padding: 12px 24px;
+    text-wrap: nowrap;
 }
 
 header .header-content .imdb-btn:hover {
@@ -161,15 +163,17 @@ header .header-content .imdb-btn i {
 }
 
 header .mobile-menu {
-    display: none;
-    margin-bottom: 24px;
+    max-height: 0;
+    overflow: hidden;
+    margin-bottom: 0;
     background-color: transparent;
+    transition: all 0.4s ease;
 }
 
-.menu-toggle:checked ~ .mobile-menu {
-    display: block;
+header .menu-toggle:checked ~ .mobile-menu {
+    max-height: 300px; /* Set this value to be greater than the expected menu height */
+    margin-bottom: 24px;
 }
-
 
 header .mobile-menu nav ul {
     list-style: none;
@@ -184,6 +188,7 @@ header .mobile-menu nav ul li {
     transition: background-color 0.3s ease;
     color: #ffffff;
     font-size: 16px;
+    cursor: pointer;
 }
 
 header .mobile-menu nav ul li:hover {
