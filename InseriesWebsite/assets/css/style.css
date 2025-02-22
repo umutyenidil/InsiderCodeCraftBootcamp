@@ -160,6 +160,37 @@ header .header-content .imdb-btn i {
     font-size: 20px;
 }
 
+header .mobile-menu {
+    display: none;
+    margin-bottom: 24px;
+    background-color: transparent;
+}
+
+.menu-toggle:checked ~ .mobile-menu {
+    display: block;
+}
+
+
+header .mobile-menu nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+header .mobile-menu nav ul li {
+    padding: 12px 24px;
+    transition: background-color 0.3s ease;
+    color: #ffffff;
+    font-size: 16px;
+}
+
+header .mobile-menu nav ul li:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+
 main .wallpaper-section {
     position: relative;
     width: 100%;
