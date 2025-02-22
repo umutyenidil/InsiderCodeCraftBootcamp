@@ -108,6 +108,7 @@ header .header-content nav ul li a {
     cursor: pointer;
     appearance: none;
     border: none;
+    text-decoration: none;
     background-color: transparent;
     color: #ffffff;
     display: flex;
@@ -170,10 +171,12 @@ header .mobile-menu {
     margin-bottom: 0;
     background-color: transparent;
     transition: all 0.4s ease;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
 }
 
 header .menu-toggle:checked ~ .mobile-menu {
-    max-height: 300px; /* Set this value to be greater than the expected menu height */
+    max-height: 220px; /* Set this value to be greater than the expected menu height */
     margin-bottom: 24px;
 }
 
@@ -207,6 +210,7 @@ main .wallpaper-section {
     position: relative;
     width: 100%;
     height: calc(100vh - 128px);
+    padding: 72px 0;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -221,7 +225,22 @@ main .wallpaper-section img {
 }
 
 main .wallpaper-section .title {
+    text-align: center;
+    align-self: end;
+}
 
+main .wallpaper-section .title h6 {
+    font-size: 24px;
+    font-weight: 400;
+    letter-spacing: 8px;
+    color: #ffffff;
+}
+
+main .wallpaper-section .title h3 {
+    font-size: 64px;
+    font-weight: 600;
+    letter-spacing: 8px;
+    color: #d89f15;
 }
 
 /* xs@start */
@@ -256,6 +275,10 @@ main .wallpaper-section .title {
 
     header .mobile-menu {
         display: none;
+    }
+
+    main .wallpaper-section .title {
+        align-self: center;
     }
 }
 
