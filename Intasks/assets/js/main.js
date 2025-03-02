@@ -153,7 +153,7 @@ document.getElementById("btnPriority").addEventListener("click", function () {
     if (this.dataset.checked === "checked") {
         const priorityOrder = {low: 1, medium: 2, high: 3};
 
-        const sortedTasks = tasks.sort((a, b) => priorityOrder[b.priority] - priorityOrder[a.priority]);
+        const sortedTasks = tasks.sort((a, b) => priorityOrder[a.priority] - priorityOrder[b.priority]);
 
         sortedTasks.forEach((task) => {
             ulTaskList.appendChild(buildTaskItem({
