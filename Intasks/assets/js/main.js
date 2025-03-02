@@ -1,16 +1,25 @@
 import {buildTaskItem} from "./components/liTaskItem.js";
 import {formatDate} from "./utils.js";
 
+let tasks = [];
+
 const ulTaskList = document.querySelector("ul.task-list");
 const btnAddTask = document.getElementById("btnAddTask");
 const divOverlay = document.querySelector("div.overlay");
 
 ulTaskList.addEventListener("click", ({target}) => {
     if (target.classList.contains("completed")) {
+        console.log(tasks);
         if (target.checked) {
             target.closest("li").classList.add("task-completed");
+            console.log(tasks);
+            console.log(target.closest("li").dataset.id);
+            const index = tasks.findIndex((task) => task.id == target.closest("li").dataset.id);
+            tasks[index]["completed"] = true;
         } else {
             target.closest("li").classList.remove("task-completed");
+            const index = tasks.findIndex((task) => task.id == target.closest("li").dataset.id);
+            tasks[index]["completed"] = false;
         }
     }
 
@@ -75,7 +84,7 @@ divOverlay.addEventListener("click", ({currentTarget, target}) => {
             const frmModalContainerBody = document.querySelector("form.modal-container__body")
 
             const formData = new FormData(frmModalContainerBody);
-            const formObject = Object.fromEntries(formData);
+            let formObject = Object.fromEntries(formData);
 
             formObject.completed = formObject?.completed === "on";
 
@@ -84,6 +93,8 @@ divOverlay.addEventListener("click", ({currentTarget, target}) => {
             formObject.id = Math.random() * 1000;
 
             if (!validateForm(formObject)) return;
+
+            tasks.push(formObject);
 
             ulTaskList.appendChild(buildTaskItem({
                 id: formObject.id,
@@ -100,5 +111,37 @@ divOverlay.addEventListener("click", ({currentTarget, target}) => {
         } catch (e) {
             alert("Bir sorun oluştu, tekrar deneyiniz");
         }
+    }
+});
+
+document.getElementById("btnShowCompleted").addEventListener("click", function () {
+    ulTaskList.textContent = "";
+
+    this.dataset.checked = this.dataset.checked === "checked" ? "" : "checked";
+
+    if (this.dataset.checked === "checked") {
+        const completedTasks = tasks.filter((task) => task.completed);
+
+        completedTasks.forEach((task) => {
+            ulTaskList.appendChild(buildTaskItem({
+                id: task.id,
+                title: task.title,
+                priority: task.priority,
+                description: task.description,
+                completed: task.completed,
+                createdAt: formatDate(task.createdAt),
+            }));
+        });
+    } else {
+        tasks.forEach((task) => {
+            ulTaskList.appendChild(buildTaskItem({
+                id: task.id,
+                title: task.title,
+                priority: task.priority,
+                description: task.description,
+                completed: task.completed,
+                createdAt: formatDate(task.createdAt),
+            }));
+        });
     }
 });

@@ -1,5 +1,6 @@
 export const buildTaskItem = ({id, title, priority, description, createdAt, completed}) => {
     const liTaskItem = document.createElement("li");
+    liTaskItem.dataset.id = id.toString();
     liTaskItem.classList.add("task-item");
     if (completed) liTaskItem.classList.add("task-completed");
 
