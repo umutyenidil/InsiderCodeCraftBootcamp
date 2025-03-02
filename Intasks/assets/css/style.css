@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --red-400: #ff6467;
+
+    --slate-50: #f8fafc;
+    --slate-100: #f1f5f9;
+    --slate-200: #e2e8f0;
+    --slate-300: #cad5e2;
+    --slate-400: #90a1b9;
+    --slate-500: #62748e;
+    --slate-600: #45556c;
+    --slate-700: #314158;
+    --slate-800: #314158;
+    --slate-900: #0f172b;
+    --slate-950: #020618;
+
+    --radius-sm: 4px;
+    --radius-md: 8px;
+    --radius-lg: 16px;
+    --radius-xl: 24px;
+
+    --shadow-md: 0px 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 128px 0;
+}
+
+.container {
+    width: 50%;
+    height: 100%;
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.container header {
+    padding: 16px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: var(--slate-100);
+    border-radius: var(--radius-xl);
+
+    box-shadow: var(--shadow-md);
+}
+
+.container header .actions button {
+    appearance: none;
+    border: none;
+    cursor: pointer;
+
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: 600;
+
+    background: white;
+    border-radius: var(--radius-lg);
+
+    transition: background-color 0.25s, color 0.25s;
+}
+
+.container header .actions button:hover {
+    background: var(--slate-400);
+    color: white;
+    border-radius: var(--radius-lg);
+}
+
+.container .tasks-card {
+    height: 100%;
+    padding: 12px;
+
+    overflow-y: auto;
+
+    background-color: var(--slate-100);
+    border-radius: var(--radius-xl);
+
+    box-shadow: var(--shadow-md);
+}
+
+.container .tasks-card .task-list {
+    list-style: none;
+}
+
+.container .tasks-card .task-list .task-item {
+    width: 100%;
+    padding: 16px;
+    border-radius: var(--radius-xl);
+
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+
+    background-color: var(--slate-200);
+
+}
+
+.container .tasks-card .task-list .task-item .heading {
+    display: flex;
+    flex-direction: column;
+    row-gap: 4px;
+}
+
+.container .tasks-card .task-list .task-item .heading h5 {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.container .tasks-card .task-list .task-item .heading span {
+    text-wrap: nowrap;
+    font-weight: 300;
+    font-size: 12px;
+}
+
+.container .tasks-card .task-list .task-item .detail p {
+    display: -webkit-box;
+    -webkit-line-clamp: 3; /* Maximum 3 lines */
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.container .tasks-card .task-list .task-item .actions {
+    margin-left: auto;
+}
+
+.container .tasks-card .task-list .task-item .actions .actions__delete {
+    cursor: pointer;
+    appearance: none;
+    border: none;
+    color: var(--red-400);
+    background-color: transparent;
+    padding: 12px;
+    aspect-ratio: 1/1;
+    border-radius: 50%;
+    font-size: 20px;
+    transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+.container .tasks-card .task-list .task-item .actions .actions__delete:hover {
+    background-color: var(--red-400);
+    color: white;
+}
+
+.container .tasks-card .task-list .task-item .actions .actions__delete i {
+    display: block;
+}
+
