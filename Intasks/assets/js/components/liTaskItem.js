@@ -1,4 +1,4 @@
-export const buildTaskItem = () => {
+export const buildTaskItem = ({id, title, priority, description, createdAt}) => {
     const liTaskItem = document.createElement("li");
     liTaskItem.classList.add("task-item");
 
@@ -21,20 +21,20 @@ export const buildTaskItem = () => {
     divHeadingTop.classList.add("heading-top");
 
     const h5 = document.createElement("h5");
-    h5.textContent = "Insider Code";
+    h5.textContent = title;
     divHeadingTop.appendChild(h5);
 
     const chipSpan = document.createElement("span");
     chipSpan.classList.add("chip");
-    chipSpan.classList.add("medium");
-    chipSpan.textContent = "Medium";
+    chipSpan.classList.add(priority);
+    chipSpan.textContent = priority;
     divHeadingTop.appendChild(chipSpan);
 
     divHeading.appendChild(divHeadingTop);
 
     const spnCreatedDate = document.createElement("span");
     spnCreatedDate.classList.add("createdDate");
-    spnCreatedDate.textContent = "02.03.2024 14:20";
+    spnCreatedDate.textContent = createdAt;
     divHeading.appendChild(spnCreatedDate);
 
     divTaskItemHeader.appendChild(divHeading);
@@ -60,7 +60,7 @@ export const buildTaskItem = () => {
     divTaskItemBody.classList.add("task-item__body");
 
     const pDescription = document.createElement("p");
-    pDescription.textContent = "Lorem ipsum dolor sit amet, consectetur adipiscing elit.";
+    pDescription.textContent = description;
 
     divTaskItemBody.appendChild(pDescription);
 
