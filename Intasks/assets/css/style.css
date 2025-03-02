@@ -75,6 +75,9 @@ body {
 
 .container .tasks-card .task-list {
     list-style: none;
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
 }
 
 .container .tasks-card .task-list .task-item {
@@ -175,6 +178,10 @@ body {
 
 .container .tasks-card .task-list .task-item .task-item__header .actions .actions__delete i {
     display: block;
+}
+
+.container .tasks-card .task-list .task-item .task-item__body {
+    width: 100%;
 }
 
 .container .tasks-card .task-list .task-item .task-item__body p {
