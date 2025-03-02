@@ -20,43 +20,53 @@
         </div>
 
         <div class="actions">
-            <button>Add Task</button>
+            <button id="btnAddTask">Add Task</button>
         </div>
     </header>
 
     <div class="tasks-card">
-        <ul class="task-list">
-            <li class="task-item">
-                <div class="task-item__header">
-                    <div class="leading">
-                        <input type="checkbox">
-                    </div>
+        <ul class="task-list"></ul>
+    </div>
+</div>
 
-                    <div class="heading">
-                        <div class="heading-top">
-                            <h5>Task 1</h5>
-                            <span class="chip medium">High</span>
-                        </div>
-                        <span class="createdDate">02.03.2024 14:20</span>
-                    </div>
+<div class="overlay">
+    <div class="modal-container">
+        <div class="modal-container__header">
+            <span>Intasks</span>
 
-                    <div class="actions">
-                        <button class="actions__delete">
-                            <i class='bx bx-trash'></i>
-                        </button>
-                    </div>
-                </div>
+            <div class="actions">
+                <button id="btnBack"><i class="bx bx-left-arrow-alt"></i></button>
+                <button id="btnSave"><i class="bx bx-save"></i>Save</button>
+            </div>
+        </div>
 
-                <div class="task-item__body">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris vestibulum felis ut ante
-                        fringilla sollicitudin. Morbi vitae ipsum sem. Vestibulum quis metus et est scelerisque mattis.
-                        Praesent quis sollicitudin eros. Quisque fermentum bibendum justo ac faucibus. Curabitur sed
-                        pulvinar nulla. Nulla quis egestas ipsum. Ut ultricies lorem sit amet mauris aliquet
-                        consectetur. Fusce vulputate risus mauris, scelerisque hendrerit neque molestie quis. Nunc at
-                        turpis mauris.</p>
-                </div>
-            </li>
-        </ul>
+        <form class="modal-container__body">
+            <div class="input-wrapper">
+                <label for="title">Title *</label>
+                <input id="title" type="text">
+            </div>
+
+            <div class="input-wrapper">
+                <label for="description">Description *</label>
+                <textarea id="description" rows="3"></textarea>
+            </div>
+
+            <div class="input-wrapper input-choice">
+                <label for="low">Low</label>
+                <input id="low" type="radio" value="low" name="priority">
+
+                <label for="medium">Medium</label>
+                <input id="medium" type="radio" value="medium" name="priority">
+
+                <label for="high">High</label>
+                <input id="high" type="radio" value="high" name="priority">
+            </div>
+
+            <div class="input-wrapper">
+                <label for="completed">Completed</label>
+                <input id="completed" type="checkbox">
+            </div>
+        </form>
     </div>
 </div>
 </body>
