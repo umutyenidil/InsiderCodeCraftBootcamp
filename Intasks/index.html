@@ -29,7 +29,7 @@
     </div>
 </div>
 
-<div class="overlay">
+<div class="overlay hidden">
     <div class="modal-container">
         <div class="modal-container__header">
             <span>Intasks</span>
@@ -43,12 +43,12 @@
         <form class="modal-container__body">
             <div class="input-wrapper">
                 <label for="title">Title *</label>
-                <input id="title" type="text">
+                <input id="title" name="title" type="text">
             </div>
 
             <div class="input-wrapper">
-                <label for="description">Description *</label>
-                <textarea id="description" rows="3"></textarea>
+                <label for="description">Description</label>
+                <textarea id="description" name="description" rows="3"></textarea>
             </div>
 
             <div class="input-wrapper input-choice">
@@ -64,7 +64,7 @@
 
             <div class="input-wrapper">
                 <label for="completed">Completed</label>
-                <input id="completed" type="checkbox">
+                <input id="completed" name="completed" type="checkbox">
             </div>
         </form>
     </div>

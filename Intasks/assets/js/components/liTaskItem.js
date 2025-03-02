@@ -1,6 +1,7 @@
-export const buildTaskItem = ({id, title, priority, description, createdAt}) => {
+export const buildTaskItem = ({id, title, priority, description, createdAt, completed}) => {
     const liTaskItem = document.createElement("li");
     liTaskItem.classList.add("task-item");
+    if (completed) liTaskItem.classList.add("task-completed");
 
     const divTaskItemHeader = document.createElement("div");
     divTaskItemHeader.classList.add("task-item__header");
@@ -11,6 +12,7 @@ export const buildTaskItem = ({id, title, priority, description, createdAt}) => 
     const input = document.createElement("input");
     input.classList.add("completed");
     input.type = "checkbox";
+    input.checked = completed;
     divLeading.appendChild(input);
 
     divTaskItemHeader.appendChild(divLeading);
