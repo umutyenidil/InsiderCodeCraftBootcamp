@@ -145,3 +145,39 @@ document.getElementById("btnShowCompleted").addEventListener("click", function (
         });
     }
 });
+
+document.getElementById("btnPriority").addEventListener("click", function () {
+    ulTaskList.textContent = "";
+
+
+    if (this.dataset.checked === "checked") {
+        const priorityOrder = {low: 1, medium: 2, high: 3};
+
+        const sortedTasks = tasks.sort((a, b) => priorityOrder[b.priority] - priorityOrder[a.priority]);
+
+        sortedTasks.forEach((task) => {
+            ulTaskList.appendChild(buildTaskItem({
+                id: task.id,
+                title: task.title,
+                priority: task.priority,
+                description: task.description,
+                completed: task.completed,
+                createdAt: formatDate(task.createdAt),
+            }));
+        });
+    } else {
+        tasks.forEach((task) => {
+            ulTaskList.appendChild(buildTaskItem({
+                id: task.id,
+                title: task.title,
+                priority: task.priority,
+                description: task.description,
+                completed: task.completed,
+                createdAt: formatDate(task.createdAt),
+            }));
+        });
+    }
+
+    this.dataset.checked = this.dataset.checked === "checked" ? "" : "checked";
+
+});
