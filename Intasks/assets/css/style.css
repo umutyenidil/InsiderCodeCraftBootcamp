@@ -15,7 +15,7 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 128px 0;
+    padding: 128px 24px;
 }
 
 .container {
@@ -91,7 +91,10 @@ body {
     row-gap: 12px;
 
     background-color: var(--slate-200);
+}
 
+.container .tasks-card .task-list .task-item.task-completed {
+    opacity: 0.5;
 }
 
 .container .tasks-card .task-list .task-item .task-item__header {
@@ -186,5 +189,33 @@ body {
 
 .container .tasks-card .task-list .task-item .task-item__body p {
     font-size: 14px;
+}
+
+@media (min-width: 0px) {
+    .container {
+        width: 100%;
+    }
+}
+
+@media (min-width: 576px) {
+    .container {
+        width: 75%;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 768px;
+    }
+}
+
+@media (min-width: 992px) {
+}
+
+@media (min-width: 1200px) {
+}
+
+@media (min-width: 1400px) {
+
 }
 

@@ -12,3 +12,17 @@ for (let i = 0; i < 20; i++) {
         createdAt: formatDate(new Date()),
     }));
 }
+
+ulTaskList.addEventListener("click", ({target}) => {
+    if (target.classList.contains("completed")) {
+        if (target.checked) {
+            target.closest("li").classList.add("task-completed");
+        } else {
+            target.closest("li").classList.remove("task-completed");
+        }
+    }
+
+    if (target.classList.contains("actions__delete")) {
+        ulTaskList.removeChild(target.closest("li"));
+    }
+});

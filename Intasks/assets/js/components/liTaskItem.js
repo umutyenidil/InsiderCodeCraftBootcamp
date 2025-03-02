@@ -9,6 +9,7 @@ export const buildTaskItem = ({id, title, priority, description, createdAt}) => 
     divLeading.classList.add("leading");
 
     const input = document.createElement("input");
+    input.classList.add("completed");
     input.type = "checkbox";
     divLeading.appendChild(input);
 
