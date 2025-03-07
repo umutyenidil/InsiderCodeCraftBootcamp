@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "base.css";
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    min-height: 100vh;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    padding: 128px 0;
+}
+
+.container .product-grid {
+    list-style: none;
+
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 16px;
+}
+
+.container .product-grid .product-grid__item {
+    width: 100%;
+}
+
+.container .product-grid .product-grid__item a{
+    all: unset;
+}
+
+.container .product-grid .product-grid__item a .product-card {
+    width: 100%;
+
+    cursor: pointer;
+
+    transition: box-shadow 0.2s ease;
+
+    overflow: hidden;
+}
+
+.container .product-grid .product-grid__item a .product-card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__body {
+    width: 100%;
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__body img {
+    width: 100%;
+    transition: transform 0.2s ease;
+}
+
+.container .product-grid .product-grid__item a .product-card:hover .product-card__body img {
+    transform: rotate(-30deg) translate(-32px, -32px);
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail {
+    padding: 12px;
+
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__info {
+    display: flex;
+    flex-direction: column;
+    row-gap: 6px;
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__info .product-card__title {
+    font-size: 16px;
+    font-weight: 600;
+
+    transition: color 0.2s ease;
+}
+
+.container .product-grid .product-grid__item a .product-card:hover .product-card__detail .product-card__info .product-card__title {
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__info .product-card__subtitle {
+    font-size: 14px;
+    font-weight: 500;
+    color: rgba(0, 0, 0, .5);
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__pricing {
+    display: flex;
+}
+
+.container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__price {
+    font-size: 20px;
+    font-weight: 700;
+}

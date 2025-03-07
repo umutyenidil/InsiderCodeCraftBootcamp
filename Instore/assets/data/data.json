@@ -1,0 +1,3303 @@
+{
+  "searchTerm": null,
+  "canonicalUrl": null,
+  "title": null,
+  "primaryHeading": null,
+  "attributeIds": [
+    "0f64ecc7-d624-4e91-b171-b83a03dd8550",
+    "16633190-45e5-4830-a068-232ac7aea82c"
+  ],
+  "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+  "marketplace": "TR",
+  "locationId": null,
+  "language": "tr",
+  "selectedFiltersCount": null,
+  "mlModels": [
+    "NONE"
+  ],
+  "analyzer": null,
+  "contentData": null,
+  "navigation": null,
+  "productGroupings": [
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "34f13983-4bce-4d9c-96f8-5bc299dcc1c3",
+          "internalPid": "1012291967",
+          "merchProductId": "d3531628-d642-593c-bf93-fa8b2facc548",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Anthracite/Smoke Grey/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/2a14bf14-2d2c-49a3-b168-2a8e150acb4c/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/ef1dafdd-37cc-4a75-8778-e55cea1185e8/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-001",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-701",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "a87d6fbc-8253-47ec-aed6-68744e677932",
+          "internalPid": "1015570571",
+          "merchProductId": "e7557376-8adc-512a-a09c-a14ccec6a545",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Sarı",
+              "hex": "EFBF4D"
+            },
+            "colorDescription": "Light Lemon Twist/Volt/Cement Grey/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5899.9,
+            "employeePrice": 5899.9,
+            "initialPrice": 5899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/22d528e1-39f4-41c7-8cac-7bc225e81ceb/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/2a57a6ce-d6e7-4f1f-b217-1e1ebfea789b/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-701",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-701"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-007",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "3cf4fd5b-e728-4dd4-936d-61ab6118aeb2",
+          "internalPid": "1015620833",
+          "merchProductId": "2edf7be2-8c75-5fe5-9356-1486dc4d3ad5",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Gum Light Brown/Anthracite/Sesame"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/c95b7a96-81fc-48e5-8465-9d862bc866ab/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/b7f3e347-9ac5-485c-ac2c-4bbf5b38359a/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-007",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-007"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-008",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "2a49941f-63e5-40fa-b29d-f552881a00c0",
+          "internalPid": "1015646764",
+          "merchProductId": "717abcab-92b3-5b2e-8d2d-17962d88fb68",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Phantom/Game Royal/Blue Void/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/5004c189-a761-4d75-bc6d-d4b7ac58b7da/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/58dbd7d8-5037-4df2-adf8-6611485a17f0/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-008",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-008"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-301",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "8208513d-7990-4d19-bf65-5f3b8361990a",
+          "internalPid": "1015620770",
+          "merchProductId": "9eacca2b-4cb4-5bfc-988f-8e468f6ad3a0",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Yeşil",
+              "hex": "007A44"
+            },
+            "colorDescription": "Light Army/Cargo Khaki/Sequoia/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/fc1a89c6-1b86-4ea0-9642-d38fcc3a701a/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/83834562-a4ba-482d-891a-87ff159de2b7/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-301",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-301"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-801",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "56a93be1-a6be-4ff9-981f-d69bf49bb257",
+          "internalPid": "1015620712",
+          "merchProductId": "eb13eb64-1ac8-53f2-a095-9bb59222ebd7",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Turuncu",
+              "hex": "E1533D"
+            },
+            "colorDescription": "Hyper Crimson/Hyper Orange/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/0b473a1d-435c-4418-b8f4-778e9ce4ad0f/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/afccc966-0e4c-455e-8333-03a69e6e02af/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-801",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-801"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "ndTxtM",
+          "productCode": "DZ2617-802",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "3843ffff-8f72-4f31-946c-ffdf3f63a3ef",
+          "internalPid": "1015646846",
+          "merchProductId": "045af4e4-c991-56f4-9301-0748a7a2eb16",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Metcon 9",
+            "subTitle": "Erkek Antrenman Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Turuncu",
+              "hex": "E1533D"
+            },
+            "colorDescription": "Apricot Agate/Picante Red/Dark Team Red/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/f9b12223-bb4a-486b-9a12-9aa2e8f5c184/NIKE+METCON+9.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/e53bcb32-f7f4-4da5-9873-76ffc03fb36a/NIKE+METCON+9.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-802",
+            "path": "/tr/t/metcon-9-antrenman-ayakkabısı-ndTxtM/DZ2617-802"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-400",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "11658d78-271b-4dd6-96f2-5b0553926411",
+          "internalPid": "1013293949",
+          "merchProductId": "a42b8859-cf6a-50a6-b330-3ade4925114d",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Midnight Navy/Siyah/Beyaz/Pure Platinum"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2699.9,
+            "employeePrice": 2699.9,
+            "initialPrice": 2699.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/cd6dd402-923f-4db1-8b88-54ca099531b1/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/03e79eb6-da2b-4e52-af1a-2499caf49dc9/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-400",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-400"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "007584fc-473f-4100-a8ef-ddd6b7ad653b",
+          "internalPid": "1013279503",
+          "merchProductId": "322373a6-3037-59ca-a1e3-479870fcdcae",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2699.9,
+            "employeePrice": 2699.9,
+            "initialPrice": 2699.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/30d7afaa-343b-4439-b65d-bb544c65420e/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/8d7e9e0b-7100-4a95-82ae-130c4076df64/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-001",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "64e26f67-1218-40b7-888d-09945d4e1c32",
+          "internalPid": "1013280649",
+          "merchProductId": "463300e8-d675-5738-b82b-042bcef757c8",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Beyaz/Pure Platinum"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2899.9,
+            "employeePrice": 2899.9,
+            "initialPrice": 2899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/48287ddd-4b87-4cc5-a2a3-dd0bdb3b5154/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/d71ffe7b-921c-4495-94cf-11c28bbf17b6/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-100",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-007",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "2290da1b-11be-4904-9599-f3d04e996848",
+          "internalPid": "1015604402",
+          "merchProductId": "904ae97c-24c4-5ef2-a33c-8ba74ccd5263",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Anthracite/Cool Grey/Siyah/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2899.9,
+            "employeePrice": 2899.9,
+            "initialPrice": 2899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/b88834c4-75f3-40d6-a757-19a878998abf/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/ee7202cb-93cc-4e38-a413-189b4dbf5998/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-007",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-007"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-005",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "14ba7fd9-239e-4477-8c41-60171b0a84f9",
+          "internalPid": "1013331066",
+          "merchProductId": "f5c300b1-d399-56e4-b10e-77a32596d70f",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Off Noir"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2799.9,
+            "employeePrice": 2799.9,
+            "initialPrice": 2799.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/55cb230b-f009-4885-8e0b-e4651a36fe6c/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/ffbb54e2-f757-48b3-83de-a0903f05d893/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-005",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-005"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB2207-003",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "144410cd-8beb-4a7d-ba13-dadb59c92a99",
+          "internalPid": "1013312893",
+          "merchProductId": "7bf5fc12-442d-5faf-8058-ff0ad26076f5",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Beyaz/University Red"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2899.9,
+            "employeePrice": 2899.9,
+            "initialPrice": 2899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/40625c4a-ef13-4505-b63f-b3cd425f54b3/NIKE+REVOLUTION+7.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/c5e4f8b4-82d6-46fa-bd41-9a5ee7d6057c/NIKE+REVOLUTION+7.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-003",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-tr13gr/FB2207-003"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "LM0DrL",
+          "productCode": "FQ8374-400",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1d0c2728-42fe-43d5-99e0-3dec0f428b69",
+          "internalPid": "1015585141",
+          "merchProductId": "2bfdd970-a51d-5065-b29a-51f5c9a23604",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Academy",
+            "subTitle": "MG Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Glacier Blue/Blue Orbit"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3999.9,
+            "employeePrice": 3999.9,
+            "initialPrice": 3999.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/67ea3c75-98c0-43a9-9b68-5c881837ec23/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/2f196101-347d-4bf5-a86a-a816577eda22/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-400",
+            "path": "/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-400"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "LM0DrL",
+          "productCode": "FQ8374-800",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "41faf4ec-1527-4279-baf6-a125b1c574cd",
+          "internalPid": "1015651235",
+          "merchProductId": "4dc45eb6-dd1d-542d-84bc-e5aabd0b503d",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Academy",
+            "subTitle": "MG Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kırmızı",
+              "hex": "B40033"
+            },
+            "colorDescription": "Ember Glow/Aurora Green"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3999.9,
+            "employeePrice": 3999.9,
+            "initialPrice": 3999.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/869e4205-93af-48eb-8e2a-03e006a56318/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/1dbc4e31-e635-4fd2-974b-7c19b7c9056d/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-800",
+            "path": "/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-800"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "LM0DrL",
+          "productCode": "FQ8374-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "dec34b6b-89a9-4b80-82a0-7cd953828f30",
+          "internalPid": "1015584971",
+          "merchProductId": "8c9abcc3-3c84-5240-b7e9-bb14344f1cd2",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Academy",
+            "subTitle": "MG Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Deep Jungle/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3399.99,
+            "employeePrice": 3399.99,
+            "initialPrice": 3799.9,
+            "discountPercentage": 10,
+            "employeeDiscountPercentage": 10
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/06689dad-75e1-4705-8217-a8c54786d792/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/63cd555f-8f89-4f88-b36c-ed31ea7cd7a5/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-002",
+            "path": "/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "LM0DrL",
+          "productCode": "FQ8374-700",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "138702bb-ec3c-482f-9ae5-0ce78f05ce07",
+          "internalPid": "1015621777",
+          "merchProductId": "75ae7315-47b6-578b-aa3e-3e9862b34d00",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Academy",
+            "subTitle": "MG Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Sarı",
+              "hex": "EFBF4D"
+            },
+            "colorDescription": "Volt/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3599.99,
+            "employeePrice": 3599.99,
+            "initialPrice": 3999.9,
+            "discountPercentage": 9,
+            "employeeDiscountPercentage": 9
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/9cd6dc27-ff3e-481b-8646-885e158d668d/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/1a5e4bc2-0b1e-4961-9f45-d990999f8064/ZOOM+VAPOR+16+ACADEMY+FG%2FMG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-700",
+            "path": "/tr/t/mercurial-vapor-16-academy-mg-düşük-bilekli-krampon-LM0DrL/FQ8374-700"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "zqz87r",
+          "productCode": "FJ2575-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "41dd7e68-6dff-4dc4-a009-caa26943b546",
+          "internalPid": "1015585414",
+          "merchProductId": "821d68b1-fc86-536b-94a2-c12f46b0f969",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Phantom Luna 2 Pro",
+            "subTitle": "FG Yüksek Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Deep Jungle/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/1d89cd3c-34f9-4071-a2ef-eea569056e2d/PHANTOM+LUNA+II+PRO+FG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/dbbf3472-f003-445f-aa69-bcbfd6e0328f/PHANTOM+LUNA+II+PRO+FG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/phantom-luna-2-pro-fg-yüksek-bilekli-krampon-zqz87r/FJ2575-002",
+            "path": "/tr/t/phantom-luna-2-pro-fg-yüksek-bilekli-krampon-zqz87r/FJ2575-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "zqz87r",
+          "productCode": "FJ2575-300",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "85312909-5f5a-4863-b8ea-40a335cd3ef8",
+          "internalPid": "1015651180",
+          "merchProductId": "452536ce-3261-5a03-b2b3-25f176c403e9",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Phantom Luna 2 Pro",
+            "subTitle": "FG Yüksek Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Yeşil",
+              "hex": "007A44"
+            },
+            "colorDescription": "Mint/Off Noir/Atomic Red"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/642818ff-a1fe-419f-9d91-62202c579bc5/PHANTOM+LUNA+II+PRO+FG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/b32327ef-21ca-4ebb-bb1a-6e98358dba3f/PHANTOM+LUNA+II+PRO+FG.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/phantom-luna-2-pro-fg-yüksek-bilekli-krampon-zqz87r/FJ2575-300",
+            "path": "/tr/t/phantom-luna-2-pro-fg-yüksek-bilekli-krampon-zqz87r/FJ2575-300"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "3LMK3M",
+          "productCode": "FQ2174-004",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "f4fb1095-6e27-43c5-a8a3-f37191e8b516",
+          "internalPid": "1015652815",
+          "merchProductId": "dc69e5a1-9fcf-50a3-a9c1-d197aecb7d06",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Sabrina 2 \"Traditions\"",
+            "subTitle": "Basketbol Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Light Smoke Grey/Fresh Mint/Vapor Green"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5499.9,
+            "employeePrice": 5499.9,
+            "initialPrice": 5499.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/3c77d54c-a664-443e-80b6-1558914ee495/SABRINA+2.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/c48b9d10-44e0-48a3-9af1-b140e17e21f1/SABRINA+2.png"
+          },
+          "featuredAttributes": [
+            "JUST_IN"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sabrina-2-traditions-basketbol-ayakkabısı-3LMK3M/FQ2174-004",
+            "path": "/tr/t/sabrina-2-traditions-basketbol-ayakkabısı-3LMK3M/FQ2174-004"
+          },
+          "isNewUntil": "2025-03-15T08:00:00.000Z",
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "JUST_IN",
+          "badgeLabel": "Yeni Satışa Sunuldu"
+        },
+        {
+          "groupKey": "3LMK3M",
+          "productCode": "FQ2174-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "0983bf95-bfbb-4a97-9753-832fdff0a1f0",
+          "internalPid": "1015567142",
+          "merchProductId": "c9d62032-2215-5667-b52e-1629b5558871",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Sabrina 2 \"Mirrored\"",
+            "subTitle": "Basketbol Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Smoke Grey/Opti Yellow/Metallic Silver"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5799.9,
+            "employeePrice": 5799.9,
+            "initialPrice": 5799.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/9d83f347-7342-4284-ac39-b511b9984f53/SABRINA+2.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/e2e388b8-a237-4548-a53c-4bf577bb5f36/SABRINA+2.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sabrina-2-mirrored-basketbol-ayakkabısı-3LMK3M/FQ2174-001",
+            "path": "/tr/t/sabrina-2-mirrored-basketbol-ayakkabısı-3LMK3M/FQ2174-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "3LMK3M",
+          "productCode": "FQ2174-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "b7911c7d-0e40-48fd-bde8-a806a2908812",
+          "internalPid": "1015652886",
+          "merchProductId": "a2b9904a-188a-5114-bfb6-92623663d5f7",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Sabrina 2 \"Flowers\"",
+            "subTitle": "Basketbol Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Cement Grey/Siyah/Pinksicle"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5799.9,
+            "employeePrice": 5799.9,
+            "initialPrice": 5799.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/602f9d31-e8cd-4697-8db9-c01d08e64bbd/SABRINA+2.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/3fa2eedd-f437-4b7b-b389-b2add0ee59e0/SABRINA+2.png"
+          },
+          "featuredAttributes": [
+            "BEST_SELLER"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sabrina-2-flowers-basketbol-ayakkabısı-3LMK3M/FQ2174-100",
+            "path": "/tr/t/sabrina-2-flowers-basketbol-ayakkabısı-3LMK3M/FQ2174-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "BEST_SELLER",
+          "badgeLabel": "En Çok Satan"
+        },
+        {
+          "groupKey": "3LMK3M",
+          "productCode": "FQ2174-800",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "55da6690-273f-4ca5-b90d-6763dc7c1533",
+          "internalPid": "1015623600",
+          "merchProductId": "ac915c5d-2baf-56d3-8705-53b49b975141",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Sabrina 2 \"Trust the Game\"",
+            "subTitle": "Basketbol Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Sarı",
+              "hex": "EFBF4D"
+            },
+            "colorDescription": "Citron Tint/Alabaster/Laser Fuchsia/Royal Pulse"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5799.9,
+            "employeePrice": 5799.9,
+            "initialPrice": 5799.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/35ed2025-5b2c-4daf-b3e1-9ad5688966b7/SABRINA+2.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/d6dd455b-ca94-44ce-9611-9b5c1f134107/SABRINA+2.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sabrina-2-trust-the-game-basketbol-ayakkabısı-3LMK3M/FQ2174-800",
+            "path": "/tr/t/sabrina-2-trust-the-game-basketbol-ayakkabısı-3LMK3M/FQ2174-800"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "TCsrVH",
+          "productCode": "HF3255-300",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "243123f5-2154-46ac-8892-cd66f10cf154",
+          "internalPid": "1015701709",
+          "merchProductId": "68a3fc90-c3d4-5b41-ae24-645982b52d2d",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Flight Court",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Yeşil",
+              "hex": "007A44"
+            },
+            "colorDescription": "Malachite/Infrared 23/Muslin/Sail"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4699.9,
+            "employeePrice": 4699.9,
+            "initialPrice": 4699.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/34a78dcc-27e0-4efe-9976-c1e50c50a4f9/JORDAN+FLIGHT+COURT.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/72601fee-e613-4c60-adbf-bac2699cdfe9/JORDAN+FLIGHT+COURT.png"
+          },
+          "featuredAttributes": [
+            "JUST_IN"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-300",
+            "path": "/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-300"
+          },
+          "isNewUntil": "2025-03-15T08:00:00.000Z",
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "JUST_IN",
+          "badgeLabel": "Yeni Satışa Sunuldu"
+        },
+        {
+          "groupKey": "TCsrVH",
+          "productCode": "HF3255-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "e7291548-5fb3-447c-bfb9-00d3cee6fab7",
+          "internalPid": "1015701708",
+          "merchProductId": "87589ad1-a9cf-5cfd-8536-54fe0c0ed704",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Flight Court",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Anthracite/Sail/Varsity Red/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4899.9,
+            "employeePrice": 4899.9,
+            "initialPrice": 4899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dd613458-e231-4949-b30e-8d8ea29b506c/JORDAN+FLIGHT+COURT.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/406d7048-9ecc-42da-ae44-fa80d993ca2c/JORDAN+FLIGHT+COURT.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-002",
+            "path": "/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "TCsrVH",
+          "productCode": "HF3255-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "f77c4cb1-9dfd-46c6-9e5e-25093e23e6ab",
+          "internalPid": "1015701694",
+          "merchProductId": "accf50e1-782b-5099-a38a-00a7f67a7830",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Flight Court",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Gum Medium Brown/Varsity Red"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4899.9,
+            "employeePrice": 4899.9,
+            "initialPrice": 4899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/dc42f837-c871-4f2a-a746-df8bcd91cea5/JORDAN+FLIGHT+COURT.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a180ed1b-0a41-4572-b8b3-29af1472682d/JORDAN+FLIGHT+COURT.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-001",
+            "path": "/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "TCsrVH",
+          "productCode": "HF3255-005",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "08895dde-c1e6-48b5-a8fa-95e4eede20e8",
+          "internalPid": "1015701698",
+          "merchProductId": "bed27a1d-fe1d-536d-b16a-2f7ad30d9342",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Flight Court",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Phantom/Chile Red/Deep Royal Blue"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4899.9,
+            "employeePrice": 4899.9,
+            "initialPrice": 4899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8daa0b02-16fc-4d9e-b002-8e79e41ec6e3/JORDAN+FLIGHT+COURT.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fac0b386-aed0-4214-a936-83cd43c94dd3/JORDAN+FLIGHT+COURT.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-005",
+            "path": "/tr/t/jordan-flight-court-ayakkabısı-TCsrVH/HF3255-005"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "FQj79s",
+          "productCode": "FQ8336-400",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1a7d0a3e-ae4c-4f79-8c6f-37a6c80e8d1e",
+          "internalPid": "1015584956",
+          "merchProductId": "3a7d9327-5269-5620-9346-5ac8443ce741",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Superfly 10 Academy",
+            "subTitle": "SG-Pro Yüksek Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Glacier Blue/Blue Orbit"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4199.9,
+            "employeePrice": 4199.9,
+            "initialPrice": 4199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/aaf377a3-7108-4bdb-86e6-98b5926e2d32/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/63252473-95f3-43a8-b314-20245d8a6a2a/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-400",
+            "path": "/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-400"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "FQj79s",
+          "productCode": "FQ8336-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "413cb6d3-c42f-4648-972a-2894c6f40c25",
+          "internalPid": "1015584986",
+          "merchProductId": "fb4cdb41-56ff-55c8-9530-e50c22a86246",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Superfly 10 Academy",
+            "subTitle": "SG-Pro Yüksek Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Deep Jungle/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4499.9,
+            "employeePrice": 4499.9,
+            "initialPrice": 4499.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/221ba514-8728-4481-ad50-bc4bed36ece9/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/4a1b9a10-3454-48e9-a3e8-7693c66682b6/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-002",
+            "path": "/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "FQj79s",
+          "productCode": "FQ8336-800",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "6cb461a5-3b8b-4cd2-8e23-135a35931bd7",
+          "internalPid": "1015650792",
+          "merchProductId": "50ebb908-1398-537f-b230-d3935acc1310",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Superfly 10 Academy",
+            "subTitle": "SG-Pro Yüksek Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kırmızı",
+              "hex": "B40033"
+            },
+            "colorDescription": "Ember Glow/Aurora Green"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4499.9,
+            "employeePrice": 4499.9,
+            "initialPrice": 4499.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/c8707362-2304-4f61-b522-2b4b59efc241/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/fd4bdb59-b90e-4942-ac4b-2540afec137b/ZM+SUPERFLY+10+ACAD+SG-PRO+AC.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-800",
+            "path": "/tr/t/mercurial-superfly-10-academy-sg-pro-yüksek-bilekli-krampon-FQj79s/FQ8336-800"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-201",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "af6e2dbc-ef2a-41bd-a51f-9c2a986cd573",
+          "internalPid": "1014289253",
+          "merchProductId": "284e7998-a959-5679-a920-0901591fbcea",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kahverengi",
+              "hex": "6C5627"
+            },
+            "colorDescription": "Khaki/Khaki"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/252f2db6-d426-4931-80a0-8b7f8f875536/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/18da855d-351f-4fc5-82bd-74fc40bd3f40/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-201",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-201"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "334da4c0-317b-406c-a9a2-c91fbfcbdc6a",
+          "internalPid": "1012284813",
+          "merchProductId": "50a1abc6-ef57-5bb6-9ef9-15d42a16aa58",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/8397fa2b-f6b8-414f-b84b-c1f420f07f28/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/d3bbbc21-03a4-46c6-adc1-3066a1ea7e96/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-001",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-003",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "a2c1fa9a-6ab6-49fb-ac30-38153b8db0c9",
+          "internalPid": "1015621473",
+          "merchProductId": "a27d6bed-aa66-5fe4-8f25-6aef1da73668",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Gum Medium Brown/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/75d5f578-a432-4397-af3c-c48b4d53629b/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/4fc8eaa1-aa06-4ca5-939b-bf4b3a7aa390/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-003",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-003"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-101",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "de08fc9c-049b-43e7-8fa9-851e3f4226ca",
+          "internalPid": "1015651906",
+          "merchProductId": "32420e6e-170d-525c-8b4c-4697fa48ab9a",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kahverengi",
+              "hex": "6C5627"
+            },
+            "colorDescription": "Sanddrift/Light Khaki/Fauna Brown/Sanddrift"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/36b16a8d-ec34-44c2-9776-712b3b3fa052/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/9d368f2b-0da1-4fe5-8b4c-563d91e45a2b/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-101",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-101"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-301",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "4c65a97c-b1a9-4ecc-a5cb-c6f9b2e48046",
+          "internalPid": "1015651865",
+          "merchProductId": "e24d58db-44b5-5ccf-b3a7-937f5b3bd6c8",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Yeşil",
+              "hex": "007A44"
+            },
+            "colorDescription": "Light Army/Light Khaki/College Grey/Light Army"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/29bd8c2f-55f6-4dda-b77b-083ebece9966/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/a7519de3-023e-4f2b-a1ef-d6bf5b31c379/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-301",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-301"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-401",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1a44119c-ceee-4fd6-b91a-2a9fdbe3914e",
+          "internalPid": "1015651946",
+          "merchProductId": "0309292b-45cd-5363-a78b-8d1834937e05",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "University Blue/University Blue"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2199.9,
+            "employeePrice": 2199.9,
+            "initialPrice": 2199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/7fd541f7-0960-47d3-9b32-a84e65aa4c0a/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/280938eb-f569-4c3b-8f9c-7a1099110167/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-401",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-401"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "NzJHxT",
+          "productCode": "FD4116-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "e6e06b2f-1f28-4285-b07e-ec6d4c498fcc",
+          "internalPid": "1012271873",
+          "merchProductId": "5bff7a54-ff8b-5d54-b83d-52c92a8dea58",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Calm",
+            "subTitle": "Erkek Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Sail/Sail"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 1599.99,
+            "employeePrice": 1599.99,
+            "initialPrice": 2199.9,
+            "discountPercentage": 27,
+            "employeeDiscountPercentage": 27
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/eaebde97-43f2-4113-ba45-d544a3822367/NIKE+CALM+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/4a432d07-0f21-41ca-8622-e55fd5012049/NIKE+CALM+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/calm-terliği-NzJHxT/FD4116-100",
+            "path": "/tr/t/calm-terliği-NzJHxT/FD4116-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "zr8R7R",
+          "productCode": "DM3493-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "78d4f5aa-4fa9-3901-b802-7b155deb5841",
+          "internalPid": "13384104",
+          "merchProductId": "1058e497-1199-514d-aa97-b6f5369176a3",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Chron 2",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Siyah/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3099.9,
+            "employeePrice": 3099.9,
+            "initialPrice": 3099.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/10a5d4a8-6726-4986-b096-c6ce78b129e7/NIKE+SB+CHRON+2.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/37755158-400f-455e-b02b-bdc45175f09f/NIKE+SB+CHRON+2.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-chron-2-kaykay-ayakkabısı-zr8R7R/DM3493-001",
+            "path": "/tr/t/sb-chron-2-kaykay-ayakkabısı-zr8R7R/DM3493-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "H1DfDD",
+          "productCode": "FN0530-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "18578932-7058-40a8-bfb4-d083bbf79460",
+          "internalPid": "1013959397",
+          "merchProductId": "c1f6217c-91f6-5f1f-ae02-2f0dd7f5d9de",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "NikeCourt Lite 4",
+            "subTitle": "Toprak Kort Erkek Tenis Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Anthracite/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3399.9,
+            "employeePrice": 3399.9,
+            "initialPrice": 3399.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/1c864ce7-feeb-4094-8f16-2d43f41a834e/M+NIKE+COURT+LITE+4+CLY.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/3978590b-e6e4-4644-a8df-ca413b7d66f5/M+NIKE+COURT+LITE+4+CLY.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/court-lite-4-toprak-kort-tenis-ayakkabısı-H1DfDD/FN0530-001",
+            "path": "/tr/t/court-lite-4-toprak-kort-tenis-ayakkabısı-H1DfDD/FN0530-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "ee44a277-d852-4546-9bd4-ce95ac3a7cef",
+          "internalPid": "1015582666",
+          "merchProductId": "e547e05b-c0b5-541c-9c63-dd0b746c5123",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Sail/Picante Red/Light Orewood Brown"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6199.9,
+            "employeePrice": 6199.9,
+            "initialPrice": 6199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/f43039c5-eff5-438e-89bd-3817ea407097/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/245e42c0-2f3b-4f9d-91d0-d70f66074168/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS",
+            "SHOW_PDP_PROMO_EXCLUSION_MESSAGE"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-100",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-400",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "8ee59127-378e-470e-847f-b90fe30cbf9e",
+          "internalPid": "1015652225",
+          "merchProductId": "ef88b454-7972-5bd6-8a18-b0ce568df8d6",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Blue Beyond/Copper Moon/Monarch/Blue Void"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/6cb4ebe7-453a-468b-a554-74d2fbe19fd7/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/be720f36-8d02-4727-ad84-7953b66667ad/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-400",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-400"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "9405ee57-d9a2-4941-982b-e660f5b29b40",
+          "internalPid": "1015582709",
+          "merchProductId": "7844a194-1b65-581b-bf90-6f67b6590af3",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Anthracite/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/34fc040a-8e53-4415-804f-d3852a679e9c/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/2862b680-2e59-4bb1-985b-0eb4074c5d3b/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-002",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-005",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "3eb91fe2-53ce-4404-a495-d4a30f488adb",
+          "internalPid": "1015620988",
+          "merchProductId": "5fe860a7-94a2-5357-bc28-1c2e942f4c2a",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Smokey Blue/Light Silver/Armory Navy/Smokey Blue"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/0e5a30a7-72a8-4024-b883-de0a6eb71884/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/ea88888d-8fb1-4db9-8e67-04add4049ed5/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-005",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-005"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-006",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "aaab8f59-1063-4c95-9f8d-71399fb4732e",
+          "internalPid": "1015620747",
+          "merchProductId": "936c9fa5-a592-51b9-b4c8-f07df5800cea",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Cement Grey/Jade Horizon/Burgundy Crush/Midnight Navy"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/b1b4e4da-d5fa-47ca-87df-d51d96bdd035/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/f9eb5acd-3576-482d-b810-2cc53c534e73/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-006",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-006"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-007",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "0ad630d6-97d0-4f4a-94e2-78612c727752",
+          "internalPid": "1015652179",
+          "merchProductId": "bd27d633-f44f-5e88-b2c3-47cbaf7e158f",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Off Noir/Siyah/Monarch/Pale Ivory"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/dc542f79-29f0-476c-8670-5907df7ee8d6/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/66bf0625-e18a-4ff8-9058-b8ecf74374d5/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-007",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-007"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-102",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "d71f970a-d511-4749-ab77-ab7b24bae8bd",
+          "internalPid": "1015652106",
+          "merchProductId": "cabe0ad2-2c4e-5ad7-a6f2-c0a2701271ed",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Summit White/Light Silver/College Grey/Sequoia"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7199.9,
+            "employeePrice": 7199.9,
+            "initialPrice": 7199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/6c2c93d8-febd-44f6-90ee-3c54086ab1be/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/175c3b42-d5bb-410e-b3e1-9aac0c49b23e/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-102",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-102"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        },
+        {
+          "groupKey": "f985ZD",
+          "productCode": "FQ0908-300",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "b137f094-fd85-44ac-b53a-47c80acdd97d",
+          "internalPid": "1015582780",
+          "merchProductId": "4b973adc-8bb9-517c-8d1e-5261b4566f7d",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Pegasus Trail 5 GORE-TEX",
+            "subTitle": "Su Geçirmez Arazi Tipi Erkek Koşu Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Yeşil",
+              "hex": "007A44"
+            },
+            "colorDescription": "Jade Horizon/Bicoastal/Pale Ivory/Armory Navy"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6199.9,
+            "employeePrice": 6199.9,
+            "initialPrice": 6199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/88647ece-9b25-4353-8d0c-3e340986cdb4/NIKE+PEGASUS+TRAIL+5+GTX.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/41e1a36c-db8d-4fb6-8b99-e5d431cee1dd/NIKE+PEGASUS+TRAIL+5+GTX.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-300",
+            "path": "/tr/t/pegasus-trail-5-gore-tex-su-geçirmez-arazi-tipi-koşu-ayakkabısı-f985ZD/FQ0908-300"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "JnzZpK",
+          "productCode": "DC8749-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "9dfff2af-834b-4015-bc2a-a2234db1ec82",
+          "internalPid": "14225876",
+          "merchProductId": "6451f9c9-a0c9-5078-957b-25b114313989",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Rival Çok Amaçlı",
+            "subTitle": "Atletizm Çok Amaçlı Etkinlik Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Metallic Silver/Pure Platinum/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3399.9,
+            "employeePrice": 3399.9,
+            "initialPrice": 3399.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/d4a341d3-6a9b-4182-8d02-cce649f3acf8/NIKE+ZOOM+RIVAL+MULTI.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/36a60d06-d78a-43d0-96e1-e5dfb4f8c848/NIKE+ZOOM+RIVAL+MULTI.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/rival-çok-amaçlı-atletizm-çok-amaçlı-etkinlik-ayakkabısı-JnzZpK/DC8749-100",
+            "path": "/tr/t/rival-çok-amaçlı-atletizm-çok-amaçlı-etkinlik-ayakkabısı-JnzZpK/DC8749-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "JnzZpK",
+          "productCode": "DC8749-101",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "3428ae6f-6112-4a82-8250-806fea66bd60",
+          "internalPid": "1013490527",
+          "merchProductId": "325b7dcd-e1b0-5df1-815b-f92df63a24fc",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Rival Çok Amaçlı",
+            "subTitle": "Atletizm Çok Amaçlı Etkinlik Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Sail/Light Lemon Twist/Guava Ice/Fierce Pink"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3299.9,
+            "employeePrice": 3299.9,
+            "initialPrice": 3299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/1b43762b-01d6-4efb-85dd-99a1c11d8c2f/NIKE+ZOOM+RIVAL+MULTI.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/645af059-4822-4782-9b7f-0a5d46b85faa/NIKE+ZOOM+RIVAL+MULTI.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/rival-çok-amaçlı-atletizm-çok-amaçlı-etkinlik-ayakkabısı-JnzZpK/DC8749-101",
+            "path": "/tr/t/rival-çok-amaçlı-atletizm-çok-amaçlı-etkinlik-ayakkabısı-JnzZpK/DC8749-101"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "4dWqvR",
+          "productCode": "FN7304-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "23cabd33-12d3-4090-9059-60348d2db85c",
+          "internalPid": "1014178609",
+          "merchProductId": "c92b6258-5eda-54e1-b3b9-665859998c22",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Air Max Excee",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Cool Grey/Wolf Grey/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4699.9,
+            "employeePrice": 4699.9,
+            "initialPrice": 4699.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/a7f07bf7-7896-48c7-b53d-ab5daf86f84e/NIKE+AIR+MAX+EXCEE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/4763b078-c16f-44bd-a5d0-2fcad00b653c/NIKE+AIR+MAX+EXCEE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/air-max-excee-ayakkabısı-4dWqvR/FN7304-001",
+            "path": "/tr/t/air-max-excee-ayakkabısı-4dWqvR/FN7304-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "BFqZfb",
+          "productCode": "DZ5485-130",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "032c4090-d355-4aa3-be3e-b7e09b1a5db2",
+          "internalPid": "1014949316",
+          "merchProductId": "d8b2593d-4bd6-5771-b1ca-fb3ea568896b",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Air Jordan 1 Retro High OG",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Green Glow/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7399.9,
+            "employeePrice": 7399.9,
+            "initialPrice": 7399.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/8402492b-1d6c-4811-af0f-4e3090c2ab59/AIR+JORDAN+1+RETRO+HIGH+OG.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e7c9aadd-242a-4dd4-8509-6ddf9645525e/AIR+JORDAN+1+RETRO+HIGH+OG.png"
+          },
+          "featuredAttributes": [
+            "SHOW_PDP_PROMO_EXCLUSION_MESSAGE"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/air-jordan-1-retro-high-og-ayakkabısı-BFqZfb/DZ5485-130",
+            "path": "/tr/t/air-jordan-1-retro-high-og-ayakkabısı-BFqZfb/DZ5485-130"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "TFSC7g",
+          "productCode": "FQ8688-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1229af6d-a5fe-4dce-bdbd-e02dce90d1c6",
+          "internalPid": "1015585362",
+          "merchProductId": "2317b65a-789c-5fe1-9179-064822a3f1ce",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Elite",
+            "subTitle": "SG-Pro Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Deep Jungle/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 13999.9,
+            "employeePrice": 13999.9,
+            "initialPrice": 13999.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/5b0ef0eb-cbfa-45a6-9bcc-b93e5ec9b3ef/ZM+VAPOR+16+ELITE+SG-PRO.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/ef22dd75-d38e-4cc4-a565-1fd6c8c54545/ZM+VAPOR+16+ELITE+SG-PRO.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-elite-sg-pro-düşük-bilekli-krampon-TFSC7g/FQ8688-002",
+            "path": "/tr/t/mercurial-vapor-16-elite-sg-pro-düşük-bilekli-krampon-TFSC7g/FQ8688-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "TFSC7g",
+          "productCode": "FQ8688-800",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "02c2b301-dfab-4967-b973-318b049abe89",
+          "internalPid": "1015651034",
+          "merchProductId": "5759845f-06ef-55d4-a075-4fbea324fd89",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Mercurial Vapor 16 Elite",
+            "subTitle": "SG-Pro Düşük Bilekli Krampon"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kırmızı",
+              "hex": "B40033"
+            },
+            "colorDescription": "Ember Glow/Aurora Green"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 13999.9,
+            "employeePrice": 13999.9,
+            "initialPrice": 13999.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/abc6bf27-fee3-4025-a957-efc3d746161a/ZM+VAPOR+16+ELITE+SG-PRO.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/7862f418-9f25-4e65-81b0-4ec1e0a73c02/ZM+VAPOR+16+ELITE+SG-PRO.png"
+          },
+          "featuredAttributes": [
+            "SHOW_PDP_PROMO_EXCLUSION_MESSAGE",
+            "BEST_SELLER"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/mercurial-vapor-16-elite-sg-pro-düşük-bilekli-krampon-TFSC7g/FQ8688-800",
+            "path": "/tr/t/mercurial-vapor-16-elite-sg-pro-düşük-bilekli-krampon-TFSC7g/FQ8688-800"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "BEST_SELLER",
+          "badgeLabel": "En Çok Satan"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "qvxWLG",
+          "productCode": "FD0731-600",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "ba64a240-3d2f-4413-825a-41712d02ad1b",
+          "internalPid": "1015586677",
+          "merchProductId": "1635ccc6-aff8-568d-b154-0feac8d33990",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Zoom Blazer Mid",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kırmızı",
+              "hex": "B40033"
+            },
+            "colorDescription": "Burgundy Crush/Burgundy Crush/Summit White/Summit White"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3799.9,
+            "employeePrice": 3799.9,
+            "initialPrice": 3799.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/afb77160-3943-488d-986e-3c0ca895af31/NIKE+SB+ZOOM+BLAZER+MID.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/2107d7c6-1800-47ba-abcd-45031e8c8476/NIKE+SB+ZOOM+BLAZER+MID.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-zoom-blazer-mid-kaykay-ayakkabısı-qvxWLG/FD0731-600",
+            "path": "/tr/t/sb-zoom-blazer-mid-kaykay-ayakkabısı-qvxWLG/FD0731-600"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "qvxWLG",
+          "productCode": "FD0731-500",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "5cbf4e19-e52b-453a-aac4-5bd249154293",
+          "internalPid": "1015651989",
+          "merchProductId": "259c44dc-5537-526f-b4a6-520ee608b4cc",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Zoom Blazer Mid",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mor",
+              "hex": "472B7E"
+            },
+            "colorDescription": "Dusty Amethyst/Dusty Amethyst/Beyaz/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4199.9,
+            "employeePrice": 4199.9,
+            "initialPrice": 4199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/64f1cbfe-8a50-47b6-84a7-db77ed020a5f/NIKE+SB+ZOOM+BLAZER+MID.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/6473ef6c-cfed-48d2-8ca8-ca1ff580f3ea/NIKE+SB+ZOOM+BLAZER+MID.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-zoom-blazer-mid-kaykay-ayakkabısı-qvxWLG/FD0731-500",
+            "path": "/tr/t/sb-zoom-blazer-mid-kaykay-ayakkabısı-qvxWLG/FD0731-500"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "jQmnC7",
+          "productCode": "DH7505-101",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "59d48103-2d3e-41db-b1bb-2297461cb3ca",
+          "internalPid": "13935974",
+          "merchProductId": "6f849ed9-c31f-582d-b525-e9221033f9ff",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Force 58 Premium",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Beyaz/Beyaz/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 3599.9,
+            "employeePrice": 3599.9,
+            "initialPrice": 3599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/0608afa3-02cc-4ccd-ae5a-660ae345bac4/NIKE+SB+FORCE+58+PRM+L.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/7564ab4b-8cd3-4f0c-a31f-1765f7a4f104/NIKE+SB+FORCE+58+PRM+L.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-force-58-premium-kaykay-ayakkabısı-jQmnC7/DH7505-101",
+            "path": "/tr/t/sb-force-58-premium-kaykay-ayakkabısı-jQmnC7/DH7505-101"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "2Sd8TJ",
+          "productCode": "554724-136",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "625c7a87-e782-4232-b902-12e6de6ec726",
+          "internalPid": "14248558",
+          "merchProductId": "48b4df9b-316a-544f-8283-d3ed2d9cd294",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Air Jordan 1 Mid",
+            "subTitle": "Ayakkabı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Beyaz/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9609043c-e2ac-4f16-a1fa-952c26212845/AIR+JORDAN+1+MID.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/9666574d-f12c-46c8-b04b-fc50b3581e91/AIR+JORDAN+1+MID.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/air-jordan-1-mid-ayakkabı-2Sd8TJ/554724-136",
+            "path": "/tr/t/air-jordan-1-mid-ayakkabı-2Sd8TJ/554724-136"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "2Sd8TJ",
+          "productCode": "554724-093",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "55d65710-aeb3-413b-afd9-5eb975d8afb0",
+          "internalPid": "14248557",
+          "merchProductId": "ab2f7040-7dbd-5fca-bbf6-050beacfeccb",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Air Jordan 1 Mid",
+            "subTitle": "Ayakkabı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Siyah/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6299.9,
+            "employeePrice": 6299.9,
+            "initialPrice": 6299.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a15d88b1-c61f-44c4-bd5b-ac96c64f1b4c/AIR+JORDAN+1+MID.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2d5a9da4-00ab-40dc-a428-7fa5df88b031/AIR+JORDAN+1+MID.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/air-jordan-1-mid-ayakkabı-2Sd8TJ/554724-093",
+            "path": "/tr/t/air-jordan-1-mid-ayakkabı-2Sd8TJ/554724-093"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "lGNCtG",
+          "productCode": "FQ1759-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "23c28fce-479f-44a5-98df-8b0df85e31e6",
+          "internalPid": "1015582365",
+          "merchProductId": "28cd352a-1041-5581-b9b0-f1a491d5457e",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Spizike Low",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Anthracite/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/0d26b559-372c-4d03-8169-fa1d70d67ebf/JORDAN+SPIZIKE+LOW.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a5cb8cc0-adff-444e-a945-8ab9107b690b/JORDAN+SPIZIKE+LOW.png"
+          },
+          "featuredAttributes": [
+            "SHOW_PDP_PROMO_EXCLUSION_MESSAGE",
+            "BEST_SELLER"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-001",
+            "path": "/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "BEST_SELLER",
+          "badgeLabel": "En Çok Satan"
+        },
+        {
+          "groupKey": "lGNCtG",
+          "productCode": "FQ1759-201",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "103e1fd3-b2e9-4206-905f-09fea82c289e",
+          "internalPid": "1015647006",
+          "merchProductId": "9284e597-d68e-5c8f-a96d-2a21156853d0",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Spizike Low",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Gri",
+              "hex": "808080"
+            },
+            "colorDescription": "Cave Stone/Anthracite/Medium Ash/Rattan"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/df647762-1ed0-4307-a29e-d63807a3298b/JORDAN+SPIZIKE+LOW.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/61ef5296-13aa-46da-a66a-011607a79d36/JORDAN+SPIZIKE+LOW.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-201",
+            "path": "/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-201"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "lGNCtG",
+          "productCode": "FQ1759-102",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1ec1cd55-29a8-4a1c-880e-b0d88e14f147",
+          "internalPid": "1015646996",
+          "merchProductId": "128b987e-657e-5640-bb22-972a4d21241a",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Spizike Low",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Anthracite/Wolf Grey/Cool Grey"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a4da4247-7264-4ac5-a46b-caf8a499de9b/JORDAN+SPIZIKE+LOW.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e214fc7a-029a-446d-8133-8bdb9c49ac7f/JORDAN+SPIZIKE+LOW.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-102",
+            "path": "/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-102"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "lGNCtG",
+          "productCode": "FQ1759-141",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "297b0211-f5a6-4893-a550-6fae40917700",
+          "internalPid": "1015620900",
+          "merchProductId": "e42175ad-34f8-5548-9c6c-3c99e82954d8",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Spizike Low",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Beyaz/Wolf Grey/Anthracite/University Blue"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 7599.9,
+            "employeePrice": 7599.9,
+            "initialPrice": 7599.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f014625e-1a1d-4944-8395-46a07841a794/JORDAN+SPIZIKE+LOW.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/2322af51-1e87-4355-928e-2063dc6b5831/JORDAN+SPIZIKE+LOW.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-141",
+            "path": "/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-141"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "lGNCtG",
+          "productCode": "FQ1759-202",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "3999ed93-738b-4a2d-a48f-fd37c6da4257",
+          "internalPid": "1015620691",
+          "merchProductId": "0320e334-568d-5c6b-8a59-69fb9a0eacf6",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Jordan Spizike Low",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kahverengi",
+              "hex": "6C5627"
+            },
+            "colorDescription": "Flax/Siyah/Sanddrift/Baroque Brown"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 5399.99,
+            "employeePrice": 5399.99,
+            "initialPrice": 7599.9,
+            "discountPercentage": 28,
+            "employeeDiscountPercentage": 28
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/df377d75-8dfe-4bc8-92db-c8ec966d5eca/JORDAN+SPIZIKE+LOW.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/5b33b0ca-d834-41cb-8f6c-b0c61cb7171c/JORDAN+SPIZIKE+LOW.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-202",
+            "path": "/tr/t/jordan-spizike-low-ayakkabısı-lGNCtG/FQ1759-202"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "R9ZFT9",
+          "productCode": "FV1285-900",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "2487b52d-c69a-485d-be28-759d50f06e2e",
+          "internalPid": "1015447609",
+          "merchProductId": "77fc4ac4-757a-55a2-a81e-942afbdde4d7",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike G.T. Jump 2 Electric",
+            "subTitle": "Erkek Basketbol Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Multi-Color",
+              "hex": "FFFFFF"
+            },
+            "colorDescription": "Multi-Color/Multi-Color"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 8999.9,
+            "employeePrice": 8999.9,
+            "initialPrice": 8999.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/abb8771c-602f-48eb-ac4b-32861c97e0ee/NIKE+AIR+ZOOM+G.T.+JUMP+2+OLY.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/3326958f-17f7-4a25-b02f-82ee9b515916/NIKE+AIR+ZOOM+G.T.+JUMP+2+OLY.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/gt-jump-2-electric-basketbol-ayakkabısı-R9ZFT9/FV1285-900",
+            "path": "/tr/t/gt-jump-2-electric-basketbol-ayakkabısı-R9ZFT9/FV1285-900"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "GtNTlj",
+          "productCode": "CZ5478-401",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "be862a4f-7030-36df-a948-5191e8ea6666",
+          "internalPid": "13074565",
+          "merchProductId": "eef258a8-6250-5673-b893-a9991da00958",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Victori One",
+            "subTitle": "Erkek Duş Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Mavi",
+              "hex": "1F4090"
+            },
+            "colorDescription": "Game Royal/Game Royal/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 1349.9,
+            "employeePrice": 1349.9,
+            "initialPrice": 1349.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/0264a56c-e627-4ce4-a163-b31ca0a5b026/NIKE+VICTORI+ONE+SHOWER+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/a5cbfe8a-eccb-48b3-916d-bc5b35cad9d8/NIKE+VICTORI+ONE+SHOWER+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/victori-one-duş-terliği-GtNTlj/CZ5478-401",
+            "path": "/tr/t/victori-one-duş-terliği-GtNTlj/CZ5478-401"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "GtNTlj",
+          "productCode": "CZ5478-200",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "b6f22762-314f-41ee-8d2d-facb9d76b9f2",
+          "internalPid": "1014932971",
+          "merchProductId": "87c2db83-611b-5f7f-bd8f-39c9a70e25b0",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Victori One",
+            "subTitle": "Erkek Duş Terliği"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kahverengi",
+              "hex": "6C5627"
+            },
+            "colorDescription": "Khaki/Khaki/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 1349.9,
+            "employeePrice": 1349.9,
+            "initialPrice": 1349.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/fdbafd85-ced8-4e54-ac9e-d702a606c6a4/NIKE+VICTORI+ONE+SHOWER+SLIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/5c5ce5cc-340e-420f-ac5f-65ded11defd1/NIKE+VICTORI+ONE+SHOWER+SLIDE.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/victori-one-duş-terliği-GtNTlj/CZ5478-200",
+            "path": "/tr/t/victori-one-duş-terliği-GtNTlj/CZ5478-200"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "lrh1RW",
+          "productCode": "HQ1416-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "41d7b7ac-bc5f-466d-80f9-fc3808def7f8",
+          "internalPid": "1015607582",
+          "merchProductId": "3b681592-358f-5c2c-ab20-b885e5f93200",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Air Max 90 Drift",
+            "subTitle": "Erkek Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Siyah/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 6699.9,
+            "employeePrice": 6699.9,
+            "initialPrice": 6699.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/9a163b3f-9441-4b69-add5-5a6844eb662b/AIR+MAX+90+DRIFT.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/cf25a5ce-e6bb-4041-a149-9dc52ab9b506/AIR+MAX+90+DRIFT.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/air-max-90-drift-ayakkabısı-lrh1RW/HQ1416-001",
+            "path": "/tr/t/air-max-90-drift-ayakkabısı-lrh1RW/HQ1416-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "tr13gr",
+          "productCode": "FB8501-002",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "73f52773-35b7-477c-8725-debf74387f88",
+          "internalPid": "1013491608",
+          "merchProductId": "585005a3-303e-5211-9d3d-71234b69c5bf",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike Revolution 7",
+            "subTitle": "Erkek Yol Koşu Ayakkabısı (Ekstra Geniş)"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2899.9,
+            "employeePrice": 2899.9,
+            "initialPrice": 2899.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/aa16f9bd-40e0-4db3-a3d1-a48d4b20cf3b/NIKE+REVOLUTION+7+WIDE.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/94341311-2775-4950-ba7e-83c397a73349/NIKE+REVOLUTION+7+WIDE.png"
+          },
+          "featuredAttributes": [
+            "SUSTAINABLE_MATERIALS"
+          ],
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/revolution-7-yol-koşu-ayakkabısı-ekstra-geniş-tr13gr/FB8501-002",
+            "path": "/tr/t/revolution-7-yol-koşu-ayakkabısı-ekstra-geniş-tr13gr/FB8501-002"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": "SUSTAINABLE_MATERIALS",
+          "badgeLabel": "Sürdürülebilir Malzemeler"
+        }
+      ]
+    },
+    {
+      "cardType": "default",
+      "properties": null,
+      "products": [
+        {
+          "groupKey": "QMr8qp",
+          "productCode": "FD6757-001",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "8f5d0a66-963a-4e32-8bc9-9004b11e8abd",
+          "internalPid": "1014391104",
+          "merchProductId": "d1660725-3b4b-5c8d-a321-2df5def6b112",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Zoom Janoski OG+",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Siyah",
+              "hex": "27292B"
+            },
+            "colorDescription": "Siyah/Siyah/Beyaz/Beyaz"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4199.9,
+            "employeePrice": 4199.9,
+            "initialPrice": 4199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/1de56bb8-71e8-4831-8a80-849ea3b3781a/NIKE+SB+ZOOM+JANOSKI+OG%2B.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/03c91279-e797-4cd7-879f-d082448a0c97/NIKE+SB+ZOOM+JANOSKI+OG%2B.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-001",
+            "path": "/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-001"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "QMr8qp",
+          "productCode": "FD6757-101",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "05dbf064-389e-4903-bc00-f4d66a4acad6",
+          "internalPid": "1015644242",
+          "merchProductId": "2a28ad1f-e0a9-5582-ad20-c83f7bded5e7",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Zoom Janoski OG+",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Kahverengi",
+              "hex": "6C5627"
+            },
+            "colorDescription": "Sanddrift/Thunder Blue/Summit White/Smokey Blue"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 4199.9,
+            "employeePrice": 4199.9,
+            "initialPrice": 4199.9,
+            "discountPercentage": 0,
+            "employeeDiscountPercentage": 0
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/b7bfb2a3-f1d7-491d-8f4f-e747292b76db/NIKE+SB+ZOOM+JANOSKI+OG%2B.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/b6bdf6d7-0a2d-40cd-b82a-fc73d9887f3a/NIKE+SB+ZOOM+JANOSKI+OG%2B.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-101",
+            "path": "/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-101"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        },
+        {
+          "groupKey": "QMr8qp",
+          "productCode": "FD6757-100",
+          "productType": "FOOTWEAR",
+          "productSubType": "STANDARD",
+          "globalProductId": "1499f3e1-2f2e-4e51-bacf-918e7b061e7c",
+          "internalPid": "1013963927",
+          "merchProductId": "5804beec-b2de-5f5d-b202-cbfac43b782f",
+          "consumerChannelId": "d9a5bc42-4b9c-4976-858a-f159cf99c647",
+          "copy": {
+            "title": "Nike SB Zoom Janoski OG+",
+            "subTitle": "Kaykay Ayakkabısı"
+          },
+          "displayColors": {
+            "simpleColor": {
+              "label": "Beyaz",
+              "hex": "EEF3FF"
+            },
+            "colorDescription": "Summit White/Summit White/Beyaz/Siyah"
+          },
+          "prices": {
+            "currency": "TRY",
+            "currentPrice": 2299.99,
+            "employeePrice": 2299.99,
+            "initialPrice": 3999.9,
+            "discountPercentage": 42,
+            "employeeDiscountPercentage": 42
+          },
+          "colorwayImages": {
+            "portraitURL": "https://static.nike.com/a/images/t_default/1a063d4a-c5e8-4cfd-b93a-61d59dd4201b/NIKE+SB+ZOOM+JANOSKI+OG%2B.png",
+            "squarishURL": "https://static.nike.com/a/images/t_default/8437a332-f38d-4fa1-b55b-e66482edfab1/NIKE+SB+ZOOM+JANOSKI+OG%2B.png"
+          },
+          "featuredAttributes": null,
+          "pdpUrl": {
+            "url": "https://www.nike.com/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-100",
+            "path": "/tr/t/sb-zoom-janoski-og-kaykay-ayakkabısı-QMr8qp/FD6757-100"
+          },
+          "isNewUntil": null,
+          "promotions": null,
+          "customization": null,
+          "badgeAttribute": null,
+          "badgeLabel": null
+        }
+      ]
+    }
+  ],
+  "pages": {
+    "next": "/discover/product_wall/v1/marketplace/TR/language/tr/consumerChannelId/d9a5bc42-4b9c-4976-858a-f159cf99c647?path=/tr/w/erkek-ayakkabilar-nik1zy7ok&attributeIds=0f64ecc7-d624-4e91-b171-b83a03dd8550,16633190-45e5-4830-a068-232ac7aea82c&queryType=PRODUCTS&anchor=48&count=24",
+    "prev": "/discover/product_wall/v1/marketplace/TR/language/tr/consumerChannelId/d9a5bc42-4b9c-4976-858a-f159cf99c647?path=/tr/w/erkek-ayakkabilar-nik1zy7ok&attributeIds=0f64ecc7-d624-4e91-b171-b83a03dd8550,16633190-45e5-4830-a068-232ac7aea82c&queryType=PRODUCTS&anchor=0&count=24",
+    "totalPages": 24,
+    "totalResources": 555
+  }
+}
