@@ -40,7 +40,6 @@ const buildStyle = () => {
             .container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__info .product-card__title {
                 font-size: 16px;
                 font-weight: 600;
-                transition: color 0.2s ease;
             }
             
             .container .product-grid .product-grid__item a .product-card .product-card__detail .product-card__info .product-card__subtitle {
@@ -84,7 +83,9 @@ const buildElement = (data) => {
     return `
         <li class="product-grid__item" >
             <a target="_blank" href="${detailUrl}">
-                <div id="product${id}" class="product-card">
+                <div class="product-card"
+                     data-id="${id}"
+                     data-json='${encodeURIComponent(JSON.stringify(data))}'>
                     <div class="product-card__body">
                         <img src="${imageUrl}" alt="${imageUrl}"/>
                     </div>
@@ -111,9 +112,9 @@ const buildScript = (product) => {
     const color = `#${colorHex}`;
 
     $(document).ready(function () {
-        $(`#product${id}`).animateHoverColor(color, 200, ".product-card__title");
+        $(`.product-card[data-id="${id}"]`).animateHoverColor(color, 200, ".product-card__title");
 
-        $(".product-grid__item").animateHoverTransform("rotate(-30deg) translateX(-16px)", 200, ".product-card__body img");
+        $(`.product-card[data-id="${id}"]`).animateHoverTransform("rotate(-30deg) translateX(-16px)", 200, ".product-card__body img");
     });
 };
 
