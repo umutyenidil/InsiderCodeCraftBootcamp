@@ -64,10 +64,14 @@ const buildStyle = () => {
             overflow: hidden; 
             
             display: flex;
+            flex-direction: column;
+            row-gap: 24px;
+            
+            overflow-y: scroll;
         }
         
         .quick-view__overlay .modal .modal__content .product-gallery {
-            width: 50%;
+            width: 100%;
             height: 100%;
             
             display: flex;
@@ -107,7 +111,7 @@ const buildStyle = () => {
         }
         
         .quick-view__overlay .modal .modal__content .product-details {
-            width: 50%;
+            width: 100%;
             height: 100%;
             
             display: flex;
@@ -173,6 +177,32 @@ const buildStyle = () => {
         
         .quick-view__overlay .modal .modal__content .product-details .cart-btn:hover {
             background-color: #e2e2e2;
+        }
+        
+        @media (min-width: 576px) {
+            
+        }
+        
+        @media (min-width: 768px) {
+             .quick-view__overlay .modal .modal__content {
+                flex-direction: row;
+                overflow-y: hidden;
+            }
+            
+            .quick-view__overlay .modal .modal__content .product-gallery {
+                width: 50%
+            }
+            
+            .quick-view__overlay .modal .modal__content .product-details {
+                width: 50%
+            }
+        }
+        
+        @media (min-width: 992px) {
+            
+        }
+        
+        @media (min-width: 1200px) {
         }
         `.replace(/\s+/g, " ")
     ).appendTo("head");
@@ -277,6 +307,7 @@ const buildScript = () => {
                         {opacity: 0},
                         200, function () {
                             $(this).remove();
+                            $("style#quick-view").remove();
                         }
                     );
                 }
