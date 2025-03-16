@@ -288,6 +288,11 @@ main .detail-section .detail-section__header .detail .detail__top .detail__top-l
     font-size: 40px;
 }
 
+main .detail-section .detail-section__header .detail .detail__top .detail__top-left h1 a{
+    text-decoration: none;
+    color: #ffffff;
+}
+
 main .detail-section .detail-section__header .detail .detail__top .detail__top-left .summary {
     list-style: none;
     padding: 0;
