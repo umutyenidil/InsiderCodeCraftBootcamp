@@ -196,12 +196,12 @@ header .mobile-menu nav ul li a {
     cursor: pointer;
 }
 
-header .mobile-menu nav ul li:hover a{
+header .mobile-menu nav ul li:hover a {
     background-color: #ffffff;
     color: #000000;
 }
 
-header .mobile-menu nav ul li:last-child:hover a{
+header .mobile-menu nav ul li:last-child:hover a {
     background-color: #fb2c36;
     color: #ffffff;
 }
@@ -288,7 +288,7 @@ main .detail-section .detail-section__header .detail .detail__top .detail__top-l
     font-size: 40px;
 }
 
-main .detail-section .detail-section__header .detail .detail__top .detail__top-left h1 a{
+main .detail-section .detail-section__header .detail .detail__top .detail__top-left h1 a {
     text-decoration: none;
     color: #ffffff;
 }
@@ -459,6 +459,71 @@ main #episode-section .episode-list-container .episode-list .episode-list-item .
     font-size: 20px;
 }
 
+main #cast-section {
+    color: #ffffff;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto 0;
+    padding: 0 24px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 32px;
+}
+
+main #cast-section .cast-section__header {
+}
+
+main #cast-section .cast-section__header h3 {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+main #cast-section .cast-section__content {
+
+}
+
+main #cast-section .cast-section__content .cast {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 16px;
+}
+
+main #cast-section .cast-section__content .cast .cast__item {
+}
+
+main #cast-section .cast-section__content .cast .cast__item .cast__card {
+    display: flex;
+    align-items: center;
+    column-gap: 16px;
+}
+
+main #cast-section .cast-section__content .cast .cast__item .cast__card img {
+    width: 96px;
+    height: 96px;
+    border-radius: 50%;
+    object-fit: contain;
+}
+
+main #cast-section .cast-section__content .cast .cast__item .cast__card .cast__card-title {
+    display: flex;
+    flex-direction: column;
+    row-gap: 8px;
+}
+
+main #cast-section .cast-section__content .cast .cast__item .cast__card .cast__card-title .name {
+    font-weight: 600;
+    font-size: 24px;
+    color: #ffffff;
+}
+
+main #cast-section .cast-section__content .cast .cast__item .cast__card .cast__card-title .character {
+    font-weight: 300;
+    font-size: 16px;
+    color: #ffffffaa;
+}
+
 footer {
     color: #ffffff;
     display: flex;
@@ -487,6 +552,10 @@ footer {
 
     main .detail-section .detail-section__header .detail .category {
         display: flex;
+    }
+
+    main #cast-section .cast-section__content .cast {
+        grid-template-columns: repeat(2, 1fr);
     }
 }
 
@@ -518,8 +587,12 @@ footer {
         grid-template-columns: repeat(4, 1fr);
     }
 
+    main #cast-section .cast-section__content .cast {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
     footer {
-        margin: 128px auto 0;
+        margin: 32px auto 0;
     }
 }
 
@@ -527,7 +600,9 @@ footer {
 
 /* lg@start */
 @media (min-width: 992px) {
-
+    main #cast-section .cast-section__content .cast {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }
 
 /* lg@end */
