@@ -338,7 +338,7 @@ main .detail-section .detail-section__header .detail .category li:hover {
 }
 
 main #episode-section {
-    background-color: red;
+    margin-bottom: 48px;
 }
 
 main #episode-section .episode-list-container {
@@ -447,6 +447,17 @@ main #episode-section .episode-list-container .episode-list .episode-list-item .
 
 main #episode-section .episode-list-container .episode-list .episode-list-item .episode-card .episode-detail .watch-btn i {
     font-size: 20px;
+}
+
+footer {
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1200px;
+    margin: 128px auto 0;
+    padding: 32px 0;
 }
 
 /* xs@start */
