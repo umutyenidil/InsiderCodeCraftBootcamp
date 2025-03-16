@@ -186,7 +186,9 @@ header .mobile-menu nav ul {
     row-gap: 12px;
 }
 
-header .mobile-menu nav ul li {
+header .mobile-menu nav ul li a {
+    text-decoration: none;
+    display: block;
     padding: 12px 24px;
     transition: background-color 0.3s ease;
     color: #ffffff;
@@ -194,12 +196,12 @@ header .mobile-menu nav ul li {
     cursor: pointer;
 }
 
-header .mobile-menu nav ul li:hover {
+header .mobile-menu nav ul li:hover a{
     background-color: #ffffff;
     color: #000000;
 }
 
-header .mobile-menu nav ul li:last-child:hover {
+header .mobile-menu nav ul li:last-child:hover a{
     background-color: #fb2c36;
     color: #ffffff;
 }
@@ -246,7 +248,8 @@ main .detail-section {
     display: flex;
     width: 100%;
     max-width: 1200px;
-    margin: 128px auto;
+    margin: 48px auto;
+    padding: 0 24px;
 }
 
 main .detail-section .detail-section__header {
@@ -256,6 +259,7 @@ main .detail-section .detail-section__header {
 }
 
 main .detail-section .detail-section__header img {
+    display: none;
     height: 256px;
     object-fit: scale-down;
 }
@@ -310,7 +314,7 @@ main .detail-section .detail-section__header .detail .detail__top .publisher-log
 main .detail-section .detail-section__header .detail .category {
     list-style: none;
     padding: 0;
-    display: flex;
+    display: none;
     align-items: center;
     column-gap: 12px;
 }
@@ -339,6 +343,7 @@ main .detail-section .detail-section__header .detail .category li:hover {
 
 main #episode-section {
     margin-bottom: 48px;
+    padding: 0 24px;
 }
 
 main #episode-section .episode-list-container {
@@ -351,7 +356,7 @@ main #episode-section .episode-list-container .episode-list {
     list-style: none;
     padding: 0;
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     column-gap: 16px;
     row-gap: 12px;
 }
@@ -456,7 +461,7 @@ footer {
     align-items: center;
     width: 100%;
     max-width: 1200px;
-    margin: 128px auto 0;
+    margin: 0 auto 0;
     padding: 32px 0;
 }
 
@@ -471,7 +476,13 @@ footer {
 
 /* sm@start */
 @media (min-width: 576px) {
+    main #episode-section .episode-list-container .episode-list {
+        grid-template-columns: repeat(3, 1fr);
+    }
 
+    main .detail-section .detail-section__header .detail .category {
+        display: flex;
+    }
 }
 
 /* sm@end */
@@ -496,6 +507,14 @@ footer {
 
     main .wallpaper-section .title {
         align-self: center;
+    }
+
+    main #episode-section .episode-list-container .episode-list {
+        grid-template-columns: repeat(4, 1fr);
+    }
+
+    footer {
+        margin: 128px auto 0;
     }
 }
 
